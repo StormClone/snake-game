@@ -1,2 +1,2 @@
 # snake-game
-Snake Game
+Snake game with highscore implementation.
